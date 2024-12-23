@@ -1,0 +1,1 @@
+open(outputFile, "w");
